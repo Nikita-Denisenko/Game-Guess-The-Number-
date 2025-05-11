@@ -1,0 +1,7 @@
+D:\С# Projects\Game  Guess The Number\bin\Debug\Game  Guess The Number.exe.config
+D:\С# Projects\Game  Guess The Number\bin\Debug\Game  Guess The Number.exe
+D:\С# Projects\Game  Guess The Number\bin\Debug\Game  Guess The Number.pdb
+D:\С# Projects\Game  Guess The Number\obj\Debug\Game  Guess The Number.csproj.AssemblyReference.cache
+D:\С# Projects\Game  Guess The Number\obj\Debug\Game  Guess The Number.csproj.CoreCompileInputs.cache
+D:\С# Projects\Game  Guess The Number\obj\Debug\Game  Guess The Number.exe
+D:\С# Projects\Game  Guess The Number\obj\Debug\Game  Guess The Number.pdb
